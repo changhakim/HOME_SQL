@@ -1,0 +1,84 @@
+<ToadOracle>
+	<FileVersion Encryption="AES">1</FileVersion>
+	<ConnectionHierarchy>
+		<DbPlatform name="Oracle">
+			<Connections>
+				<Connection type="Oracle">
+					<User>
+						<![CDATA[SOCCER]]>
+					</User>
+					<Server>XE</Server>
+					<AutoConnect>False</AutoConnect>
+					<Home>C:\oraclexe\app\oracle\product\11.2.0\server</Home>
+					<SavePassword>False</SavePassword>
+					<Favorite>False</Favorite>
+					<SessionReadOnly>False</SessionReadOnly>
+					<Alias/>
+					<Host/>
+					<InstanceName/>
+					<Sid/>
+					<Port/>
+					<LDAP/>
+					<ConnectionType>Client</ConnectionType>
+					<Protocol/>
+					<Color>16777215</Color>
+					<ConnectionMode>Default</ConnectionMode>
+					<LastConnectionDate>2019-01-21T13:22:38.128Z</LastConnectionDate>
+					<RelativePosition>2</RelativePosition>
+					<GUID>{5C05248F-0002-4F19-9D79-DEFA6A077982}</GUID>
+					<CustomFields/>
+				</Connection>
+				<Connection type="Oracle">
+					<User>
+						<![CDATA[HR]]>
+					</User>
+					<Server>XE</Server>
+					<AutoConnect>False</AutoConnect>
+					<Home>C:\oraclexe\app\oracle\product\11.2.0\server</Home>
+					<SavePassword>False</SavePassword>
+					<Favorite>False</Favorite>
+					<SessionReadOnly>False</SessionReadOnly>
+					<Alias/>
+					<Host/>
+					<InstanceName/>
+					<Sid/>
+					<Port/>
+					<LDAP/>
+					<ConnectionType>Client</ConnectionType>
+					<Protocol/>
+					<Color>16777215</Color>
+					<ConnectionMode>Default</ConnectionMode>
+					<LastConnectionDate>2019-01-20T13:51:22.092Z</LastConnectionDate>
+					<RelativePosition>0</RelativePosition>
+					<GUID>{561B9962-57D1-48AD-89AF-DFD597A04DCF}</GUID>
+					<CustomFields/>
+				</Connection>
+				<Connection type="Oracle">
+					<User>
+						<![CDATA[ORACLE]]>
+					</User>
+					<Server>XE</Server>
+					<AutoConnect>False</AutoConnect>
+					<Home>C:\oraclexe\app\oracle\product\11.2.0\server</Home>
+					<SavePassword>False</SavePassword>
+					<Favorite>False</Favorite>
+					<SessionReadOnly>False</SessionReadOnly>
+					<Alias/>
+					<Host/>
+					<InstanceName/>
+					<Sid/>
+					<Port/>
+					<LDAP/>
+					<ConnectionType>Client</ConnectionType>
+					<Protocol/>
+					<Color>16777215</Color>
+					<ConnectionMode>Default</ConnectionMode>
+					<LastConnectionDate>2019-01-16T13:48:50.279Z</LastConnectionDate>
+					<RelativePosition>1</RelativePosition>
+					<GUID>{11640016-3CB0-41C6-BBB3-48B2C6C67A71}</GUID>
+					<CustomFields/>
+				</Connection>
+			</Connections>
+		</DbPlatform>
+	</ConnectionHierarchy>
+</ToadOracle>
